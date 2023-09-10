@@ -6,6 +6,7 @@ import React from "react";
 const Work = () => {
   return (
     <div className="work-container">
+      <div className="space-animation-bg"></div>
       <h1 className="project-heading">Projects</h1>
       <div className="project-container">
         {WorkCardData.map((val, ind) => {

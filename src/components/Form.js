@@ -4,6 +4,7 @@ import React from "react";
 const Form = () => {
   return (
     <div>
+      <div className="space-animation-bg"></div>
       <form>
         <label>Your Name</label>
         <input type="text"></input>

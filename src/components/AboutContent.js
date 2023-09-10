@@ -9,6 +9,7 @@ import React2 from "./assets/lg2.jpeg";
 const AboutContent = () => {
   return (
     <div className="about">
+      <div className="space-animation-bg"></div>
       <div className="left">
         <h1>Who am i?</h1>
         <p>
